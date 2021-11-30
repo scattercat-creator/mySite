@@ -4,6 +4,7 @@
 body {
     text-align: center;
     margin: 0;
+    font-family: 'Open Sans', sans-serif;
 }
 nav {
     width: 100vw;
@@ -22,7 +23,7 @@ li {
     color: black;
     text-decoration: none;
     margin: 0;
-    padding: 19px 10px;
+    padding: 17px 10px;
     border: solid black;
     
 }
